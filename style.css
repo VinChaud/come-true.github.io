@@ -1,0 +1,28 @@
+a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+body{
+    margin: 0%;
+}
+h1{
+    border-bottom: solid gray 1px;
+    margin: 0%;
+    text-align: center;
+}
+ol{
+    border-right: solid gray 1px;
+    margin: 0%;
+    padding-top: 20px;
+    text-align: center;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+#banana{
+    grid-template-columns: 150px 1fr;
+    display: grid;
+}
+#apple{
+    padding-left: 33px;
+}
