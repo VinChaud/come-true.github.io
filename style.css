@@ -2,10 +2,7 @@ a{
     text-decoration: none;
     text-align: center;
     color: black;
-}
-body{
-    background-color: blanchedalmond;
-    margin: 0%;
+    font-size: 20px;
 }
 h1{
     border-bottom: solid gray 1px;
@@ -32,4 +29,8 @@ ol{
 image {
     opacity: 0.4;
     filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+.contents{
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
